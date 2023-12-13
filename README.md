@@ -5,7 +5,9 @@
 Hola soy Danny Ramirez, me desenvuelvo como Administrativo ene una mepresa de Riego, hace 3 años comence a estudiar programacion y hace dos me inicie en el mundo de python, en este camino realice varios cursos de formacion en pyhton y otros lenguajes complementarios como java scritp, framework django, actualmente me especilizo en analisis de datos y machine learning. 
 
 <hr>
-💻 Tech Stack:
+💻  Stack:
+<a target="_blank" class="fcc-btn" style="background-color:green; color: white" >Pyhton</a>  <a target="_blank" class="fcc-btn" style="background-color: black; color: white" >Django</a> <a target="_blank" class="fcc-btn" style="background-color:red ; color: white" >MYsql</a> <a target="_blank" class="fcc-btn" style="background-color: blue; color: white" >PostgreSQL</a> 
+
 Python  MySQL Postgres  Pandas NumPy Django Power BI Tableau
 
 
