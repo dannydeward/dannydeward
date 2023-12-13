@@ -6,9 +6,14 @@ Hola soy Danny Ramirez, me desenvuelvo como Administrativo ene una mepresa de Ri
 
 <hr>
 💻  Stack:
-<a target="_blank" class="fcc-btn" style="background-color:green; color: white" >Pyhton</a>  <a target="_blank" class="fcc-btn" style="background-color: black; color: white" >Django</a> <a target="_blank" class="fcc-btn" style="background-color:red ; color: white" >MYsql</a> <a target="_blank" class="fcc-btn" style="background-color: blue; color: white" >PostgreSQL</a> 
 
-Python  MySQL Postgres  Pandas NumPy Django Power BI Tableau
+
+
+
+| Python  |Django |  MySql| PostgresSql | Pandas | Numpy  |  matploit  | Power BI  | Looker  |  Tableau  | 
+ | HTML  |  CSS  | Java Script  |  DAX  | 
+
+
 
 
 📧 Si queres charlar conmigo 𝗽𝗼𝗱𝗲𝘀 𝗰𝗼𝗻𝘁𝗮𝗰𝘁𝗮𝗿𝗺𝗲 directamente por Linkedin o enviarme un mail a ramdanny@gmail.com.
